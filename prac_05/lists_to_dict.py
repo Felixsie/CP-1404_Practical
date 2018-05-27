@@ -1,4 +1,4 @@
-#CP1404 Practical Week 5
+#CP1404 Practical Week 5.
 
 NUMBER_OF_PEOPLE = 1
 names_of_people = []
