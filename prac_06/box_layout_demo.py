@@ -7,14 +7,14 @@ from kivy.lang import Builder
 
 class BoxLayoutDemo(App):
 
-# This function is for the Kivi box builder
+# This function is for the Kivi box builder.
 
     def build(self):
         self.title = "Box Layout Demo"
         self.root = Builder.load_file('box_layout.kv')
         return self.root
 
-# This function is for the displaying on the buttom of the Kivi box
+# This function is for the displaying on the buttom of the Kivi box.
 
     def handle_greet(self):
         print("test")
